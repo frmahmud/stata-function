@@ -149,3 +149,4 @@ The following functions are implemented in `statalikefunction.py` and will be do
 
 - `replace` — recodes a value-labelled variable for rows matching a condition (equivalent to Stata's `replace`)
 - `val_check` — returns the Stata numeric code for the first row matching a condition
+- `describe` — lists information about the variables in the dataset, such as variable names, labels, and data formats, without calculating summary statistics.
