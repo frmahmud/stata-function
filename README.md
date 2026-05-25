@@ -22,7 +22,7 @@ stata-function/
 
 ## Requirements
 
-- Python 3.8+
+- Python 1.5+
 - `pandas`
 - `numpy`
 
